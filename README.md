@@ -5,7 +5,7 @@ Each search result of the superhero should have a favourite button, clicking on 
 On clicking any particular search result (any superhero), open a new page with more information about that superhero (Superhero page).
 
 2.Superhero Page :- 
-Should show a lot of information about the superhero like their name, photo, powerstats, bio (these are must, rest you can add if you want).
+Should show a lot of information about the superhero like their name, photo, powerstats, bio, speed ,etc..
 
 3.My favourite superheroes Page :- 
 Display a list of all the favourite superheroes.
